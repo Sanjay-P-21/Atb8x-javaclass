@@ -1,6 +1,6 @@
 package ex_090924;
 
-public class lab_001 {
+public class lab_009 {
 
 	public static void main(String[] args) {
 	// TODO Auto-generated method stub
