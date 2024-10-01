@@ -13,9 +13,8 @@ public class task_of_250924 {
 //		//count++;
 			
 		System.out.println("Multiplication Table for " + n + ":");
-		while (i<=10) {
-			System.out.println(n + " X " + i + " = " + (n*i));
-			i++;
+		for (i=1; i<=15; i++) {
+			System.out.println(n + " X " + i + " = " + (i*n));
 		}
 
 	}
