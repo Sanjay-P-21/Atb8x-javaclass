@@ -6,7 +6,7 @@ public class task02 {
 		 
 		 // small calculator using +,-,*,/,%
 		
-		double a = 56;
+		double a = 126;
 		double b = 8;
 		
 		System.out.println(a+b);

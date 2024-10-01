@@ -2,9 +2,7 @@ package ex_090924;
 
 public class lab_003 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-           
+	public static void main(String[] args) {    
 		// Variables and Data Types, Identifiers
 		
 		boolean ai_is_artificialIntelligence = true;

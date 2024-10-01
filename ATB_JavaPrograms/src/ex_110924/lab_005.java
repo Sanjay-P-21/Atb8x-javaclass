@@ -10,10 +10,10 @@ public class lab_005 {
 	       boolean _l = true;
 	       boolean pramod_is_very_good_person = true;
 	 //  boolean 123pramod = true;
-	      boolean pramod123 = true;
+	      boolean pramod123 = !true;
 	      boolean _123pramod = true;
 	      boolean _123 = true;
-	      System.out.println(_123);
+	      System.out.println(pramod123);
 
 	}
 
