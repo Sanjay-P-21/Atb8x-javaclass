@@ -7,17 +7,17 @@ public class task_of_230924_02 {
 		//Input  - 12
 		//Out - Dec.
 		
-		int num = 5;
-		int num1 = 6;
+		int num = 11;
+		//int num1 = 5;
 		//char month = (char) num;
 		//char month = define_month; 
 				
-				switch (num1) {
+				switch (num) {
 				case 1:
 					System.out.println("January");
 					break;
 				case 2:
-					System.out.println("Feb");
+					System.out.println("Febrauary");
 					break;
 				case 3:
 					System.out.println("March");
@@ -26,7 +26,7 @@ public class task_of_230924_02 {
 					System.out.println("April");
 					break;
 				case 5:
-					System.out.println("MAY");
+					System.out.println("May");
 					break;
 				case 6:
 					System.out.println("June");
@@ -50,5 +50,5 @@ public class task_of_230924_02 {
 					System.out.println("December");
 					break;
 					default:
-						System.out.println("wrong input");
+						System.out.println("Wrong Input");
 				}}}
