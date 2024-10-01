@@ -16,7 +16,7 @@ public class task_of_250924_03 {
 			factorial *=i;}
 				
 			System.out.println(factorial);
-			System.out.println(4*3*2*1);
+		
 		
 
 	}
