@@ -16,8 +16,6 @@ public class task_of_250924_03 {
 			factorial *=i;}
 				
 			System.out.println(factorial);
-		
-		
 
 	}
 
